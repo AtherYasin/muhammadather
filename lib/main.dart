@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
           body: Text(
-              "\n \nHi \nMy name is Muhammad Ather \nEmail : ather.yasin747@gmail.com")),
+              "\n \nHi \nMy name is Muhammad Ather \nEmail : ather.yasin747gmail.com")),
     );
   }
 }
